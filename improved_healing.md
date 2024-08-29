@@ -1,5 +1,6 @@
 [Back to overview](README.md)
 # Improved healing
+Healing in D&D 5e is often disappointing and rarely more useful than casting a spell, these rules buff healing in a way that allows players to heal more using their **Hit Dice** as a resource.
 ***
 ### Potion of Healing
 *Potion, common* Minor tier
