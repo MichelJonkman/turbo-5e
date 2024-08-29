@@ -1,1 +1,3 @@
-# turbo-5e
+# Turbo 5e: it's like D&D but better
+
+[Improved healing](Improved healing.md)
