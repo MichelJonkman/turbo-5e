@@ -4,9 +4,9 @@
 <details>
   <summary><b>Improved healing</b></summary>
   
-Healing in D&D 5e is often disappointing and rarely more useful than casting a spell, these rules buff healing in a way that allows players to heal more using their **Hit Dice** as a resource.
+Healing in D&D 5e is often disappointing and rarely more useful than casting a spell, these rules buff healing in a way that allows players to heal more using their <b>Hit Dice</b> as a resource.
 
-[Read more](improved_healing.md)
+<a href="improved_healing.md">Read more</a>
 
 </details>
 <details>
@@ -14,7 +14,7 @@ Healing in D&D 5e is often disappointing and rarely more useful than casting a s
   
 Instead of the normal actions, bonus actions and item interactions; a more flexible system is used, similar to how Pathfinder 2e works.
 
-[Read more](improved_actions.md)
+<a href="improved_actions.md">Read more</a>
 
 </details>
 <details>
