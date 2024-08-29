@@ -9,7 +9,7 @@ Instead of the normal actions, bonus actions and item interactions; a more flexi
 <a href="improved_actions.md">Read more</a>
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Improved healing</b></summary>
   
@@ -18,7 +18,7 @@ Healing in D&D 5e is often disappointing and rarely more useful than dealing dam
 <a href="improved_healing.md">Read more</a>
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Better death saves</b></summary>
   
@@ -27,21 +27,21 @@ Death saving throws no longer track failures and successes seperately. Instead, 
 Finishing a short or long rest with full health removes all wounds.
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Spell slinging</b></summary>
   
 You're allowed to cast other spells on the same turn when you cast a bonus action except when that bonus action spell used quickened spell, then you can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Delay initiative</b></summary>
   
 Right before you take you turn you can choose to instead delay it until another creature has taken it's turn. When you choose to delay, specify the condition after which you want to take your turn, if your condition hasn't happened at the end of the round: you lose your turn. If the condition is triggered during another creature's turn, you have to wait until it has finished.
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Proficiency attunement slots</b></summary>
   
@@ -51,7 +51,7 @@ Your amount of attunement slots is equal to your proficiency modifier.
 Double attunement slots and make attunement to certain items take more slots depending on the item. For example, a common item that requires attunement could cost 1 slot but a flame tongue could cost 2 slots. A staff of power could take 3 or more slots.
 
 </details>
-<br/>
+***
 <details>
   <summary><b>Granular milestones</b></summary>
   
