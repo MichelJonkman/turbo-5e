@@ -62,7 +62,7 @@ _5th-level abjuration_
 **Range**: Touch  
 **Components**: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)  
 **Duration**: Instantaneous  
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, restore all the creature's **Hit Dice**, or end one of the following effects on the target:
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, restore all the target's **Hit Dice**, or end one of the following effects on the target:
 - One effect that charmed or petrified the target
 - One curse, including the target's attunement to a cursed magic item
 - Any reduction to one of the target's ability scores
@@ -76,6 +76,6 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 **Duration**: Instantaneous  
 You sacrifice some of your health to mend another creature's injuries. You take **4d8** necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
 
-Additionally, you may sacrifice one of your **Hit Dice**, restoring one of the chosen creature's **Hit Dice** in the process.
+Additionally, you may sacrifice one of your **Hit Dice**, causing the chosen creature to regain 1 of it's spent **Hit Dice**.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by **1d8** for each slot level above 3rd.

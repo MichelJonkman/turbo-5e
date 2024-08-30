@@ -6,6 +6,6 @@ You get 3 actions, where anything that would normally cost an action now costs 2
 If for any reason you would normally lose the ability to use your action, you instead lose 2 actions and the same for a bonus action.
 ## Balancing changes
 ### Bonus action spells
-A spell with a cast time of a bonus action (now 1 action) can only be cast once per turn.
+A spell with a cast time of a bonus action (now 1 action) can only be cast once per turn. For example: you cannot cast Misty Step twice but you can cast Healing Word and Misty Step in the same turn.
 ### Metamagic: Quickened spell
 This option can only be used once per turn to prevent being able to cast 3 action spells in a single turn.
