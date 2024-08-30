@@ -7,7 +7,7 @@ A compendium of homebrew rules to enhance the D&D 5e experience.
   
 Instead of the normal actions, bonus actions and item interactions; a more flexible system is used, similar to how Pathfinder 2e works.
 <br/><br/>
-<a href="improved_actions.md">Read more</a>
+<a href="improved_actions">Read more</a>
 
 </details>
 ***
@@ -16,7 +16,7 @@ Instead of the normal actions, bonus actions and item interactions; a more flexi
   
 Healing in D&D 5e is often disappointing and rarely more useful than dealing damage, these rules buff healing in a way that allows players to heal more using their <b>Hit Dice</b> as a resource.
 <br/><br/>
-<a href="improved_healing.md">Read more</a>
+<a href="improved_healing">Read more</a>
 
 </details>
 ***
