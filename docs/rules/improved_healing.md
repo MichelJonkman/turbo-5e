@@ -4,7 +4,9 @@ Healing in D&D 5e is often disappointing and rarely more useful than dealing dam
 ### Potion of Healing
 *Potion, common* Minor tier  
 50 gp, ½ lb.  
-This potion's red liquid glimmers when agitated. As an **action** you may drink to potion to regain **10** **hit points** and **1** **Hit Die**. Alternatively you may use a **bonus action** to drink the potion and regain **2d4 + 2 hit points** and **1 Hit Die**.
+This potion's red liquid glimmers when agitated. As an **action** you may drink to potion to regain **10** **hit points**. Alternatively you may use a **bonus action** to drink the potion and regain **2d4 + 2 hit points**.
+
+When a creature drinks this potion it also regains **1 spent Hit Die**.
 
 You can use an **action** to feed the potion to another creature but they'll only get the benefit of drinking it using a **bonus action**.
 
@@ -35,10 +37,6 @@ When you use a **healer's kit** to heal a creature, that creature can also add y
 ***
 ## Spells
 Spells listed below that cost an **action** allow the target creature to roll a number of **Hit Dice** up to the number specified, adding their **Constitution modifier** to every die rolled, and regain **hit points** equal to the total. Spells that cost a **bonus action** allow the same except the can't add their **Constitution modifier**.
-- Cure Wounds
-- Healing Word
-- Mass Cure Wounds
-- Mass Healing Word
 
 | Spell | Hit Dice | Upcast Hit Dice |
 | ---- | :--: | :--: |
