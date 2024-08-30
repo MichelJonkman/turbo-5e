@@ -1,4 +1,3 @@
-[Back to overview](README.md)
 # Improved actions
 Instead of the normal actions, bonus actions and item interactions; a more flexible system is used, similar to how Pathfinder 2e works.
 
