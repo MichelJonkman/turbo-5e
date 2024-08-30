@@ -4,6 +4,8 @@ import { defineUserConfig } from 'vuepress';
 import { searchPlugin } from '@vuepress/plugin-search';
 
 export default defineUserConfig({
+    base: 'turbo-5e',
+
     bundler: viteBundler(),
     theme: defaultTheme({
         sidebar: [
