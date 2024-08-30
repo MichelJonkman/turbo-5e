@@ -23,7 +23,7 @@ This kit is a leather pouch containing bandages, salves, and splints. The kit ha
 
 **Stabilize** As an action, you can expend **1** use of the kit to stabilize a creature that has **0 hit points**, without needing to make a **Wisdom** (Medicine) check.
 
-**Heal** As an action, you can expend **1** use of the kit to heal a creature allowing them to spend and roll one of their **Hit Dice** and regain **hit points** equal to the number rolled.
+**Heal** As an action, you can expend **1** use of the kit to heal a creature allowing them to expend and roll one of their **Hit Dice** and regain **hit points** equal to the number rolled.
 ***
 ### Healer
 _Feat_  
@@ -31,7 +31,7 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 - When you use a **healer's kit** to stabilize a dying creature, that creature also regains **1** **hit point**.
 - When you use a **healer's kit** to heal a creature, that creature can add it's **Constitution modifier** to the number of regained **hit points**.
 - With enough materials you can fashion a makeshift **healer's kit**, this kit can only be used by someone with this feat but using it does not benefit from this feat's other features.
-- As part of a short rest you can forgo using any hit dice yourself and instead focus on healing others. Choose a number of creatures equal to **4 + your proficiency bonus** that spend one or more **Hit Dice**, at the end of the short rest these creatures regain an additional **1d8** **hit points**.
+- As part of a short rest you can forgo using any hit dice yourself and instead focus on healing others. Choose a number of creatures equal to **4 + your proficiency bonus** that expend one or more **Hit Dice**, at the end of the short rest these creatures regain an additional **1d8** **hit points**.
 ###### _Maybe for more points if using skill trees_ 
 When you use a **healer's kit** to heal a creature, that creature can also add your proficiency modifier to the number of regained hit points.
 ***
