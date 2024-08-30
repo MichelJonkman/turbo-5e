@@ -1,5 +1,6 @@
 # Turbo 5e: it's like D&D but better
 A compendium of homebrew rules to enhance the D&D 5e experience.
+
 ## Additional rules
 <details>
   <summary><b>Improved actions</b></summary>
