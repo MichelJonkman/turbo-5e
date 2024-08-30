@@ -24,7 +24,7 @@ This kit is a leather pouch containing bandages, salves, and splints. The kit ha
 **Heal** As an action, you can expend **1** use of the kit to heal a creature allowing them to spend and roll one of their **Hit Dice** and regain **hit points** equal to the number rolled.
 ***
 ### Healer
-_Feat_
+_Feat_  
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 - When you use a **healer's kit** to stabilize a dying creature, that creature also regains **1** **hit point**.
 - When you use a **healer's kit** to heal a creature, that creature can add it's **Constitution modifier** to the number of regained **hit points**.
