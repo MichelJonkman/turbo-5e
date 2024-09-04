@@ -2,6 +2,8 @@
 next: improved_actions
 ---
 
+[Feat tree](feat_tree.md)
+
 # Additional Rules
 
 ### Improved Actions

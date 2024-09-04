@@ -5,9 +5,16 @@
 	},
 	"devDependencies": {
 		"@vuepress/bundler-vite": "2.0.0-rc.15",
+		"@vuepress/plugin-register-components": "2.0.0-rc.42",
 		"@vuepress/plugin-search": "2.0.0-rc.42",
 		"@vuepress/theme-default": "2.0.0-rc.42",
 		"vue": "^3.4.38",
 		"vuepress": "2.0.0-rc.15"
+	},
+	"dependencies": {
+		"@ssthouse/vue3-tree-chart": "^0.2.6",
+		"@types/markdown-it": "^14.1.2",
+		"@vue/tsconfig": "^0.5.1",
+		"markdown-it": "^14.1.0"
 	}
 }

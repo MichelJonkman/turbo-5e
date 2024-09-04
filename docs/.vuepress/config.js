@@ -2,11 +2,21 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import { defaultTheme } from '@vuepress/theme-default';
 import { defineUserConfig } from 'vuepress';
 import { searchPlugin } from '@vuepress/plugin-search';
+import {registerComponentsPlugin} from "@vuepress/plugin-register-components";
+import * as path from "node:path";
 
 export default defineUserConfig({
     base: 'turbo-5e',
 
-    bundler: viteBundler(),
+    bundler: viteBundler({
+        vuePluginOptions: {
+            template: {
+                compilerOptions: {
+                    whitespace: 'preserve',
+                }
+            }
+        }
+    }),
     theme: defaultTheme({
         sidebar: [
             {
@@ -30,6 +40,10 @@ export default defineUserConfig({
                         text: 'Improved Healing',
                         link: 'improved_healing.md'
                     },
+                    {
+                        text: 'Feat Tree',
+                        link: 'feat_tree.md'
+                    },
                 ],
             },
             {
@@ -40,5 +54,8 @@ export default defineUserConfig({
     }),
     plugins: [
         searchPlugin(),
+        registerComponentsPlugin({
+            componentsDir: path.resolve(__dirname, '../../components')
+        })
     ],
 });
