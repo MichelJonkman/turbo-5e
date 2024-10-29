@@ -1,0 +1,1 @@
+import{a_ as t}from"./app-CcJ3fWWh.js";const u=t(null);function r(a){var e;if(((e=u.value)==null?void 0:e.id)===a.id){l();return}u.value=a}function l(){u.value=null}function i(a){var e;((e=u.value)==null?void 0:e.id)===a.id&&(u.value=a)}export{u as a,l as c,r as t,i as u};
