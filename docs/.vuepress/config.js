@@ -48,7 +48,14 @@ export default defineUserConfig({
             },
             {
                 text: 'Spells',
+                prefix: '/spells/',
                 link: '/spells/general.md',
+                children: [
+                    {
+                        text: 'Spells',
+                        link: 'spells.md'
+                    },
+                ],
             },
         ],
     }),
